@@ -1,0 +1,9 @@
+streamlit
+numpy
+scipy
+faiss-cpu
+sentence-transformers
+transformers
+torch
+langchain
+httpx
