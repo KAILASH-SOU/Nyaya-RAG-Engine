@@ -1,11 +1,11 @@
+<img width="1153" height="627" alt="image" src="https://github.com/user-attachments/assets/e743ff04-d4f2-4dd2-b01b-5d9111c28b44" />
+
 # ⚖️ Nyaya RAG Engine
 
 **Nyaya RAG Engine** is a specialized Retrieval-Augmented Generation system designed for the legal domain. It automates the ingestion, indexing, and retrieval of legal documents (case files, statutes, contracts) to provide accurate, context-aware answers with citations.
 
 This project implements a complete end-to-end LLM pipeline, moving from raw data ingestion to a production-ready UI.
 
-![Project Workflow](Screenshot%202025-11-18%20at%2011.51.21%E2%80%AFPM.png)
-*(Workflow architecture: Ingestion → Embedding → Retrieval → Generation → Orchestration → Evaluation → Deployment → UI)*
 
 ---
 
